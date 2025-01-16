@@ -1,5 +1,3 @@
-# メタヒューリスティック
-
 ## 実装リスト
 - 粒子群最適化 (Particle Swarm Optimization, PSO)
 - シミュレーテッド・アニーリング (Simulated Annealing, SA)

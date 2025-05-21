@@ -23,3 +23,4 @@ Imos法（いもす法）は、累積和を利用して区間に対する操作�
 ## 参考になりそう
 - [いもす法 - いもす研 (imos laboratory)](https://imoz.jp/algorithms/imos_method.html)
 - [解説を読んでもよく分からなかった人のための「いもす法」の解説](https://note.com/kirimin_chan/n/n7663e3bb8a05)
+- [【AtCoder】いもす法（階差と累積和）](https://qiita.com/hamutahana/items/df853d4ff82a75ccf770)
